@@ -12,12 +12,27 @@
 	<atom:link href="http://localhost/myproject/wordpress/feed/" rel="self" type="application/rss+xml" />
 	<link>https://mannehihi.github.io/mywordpress</link>
 	<description>Just another WordPress site</description>
-	<lastBuildDate>Thu, 13 Oct 2022 09:26:25 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 20 Oct 2022 16:50:43 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.0.2</generator>
-</channel>
+	<generator>https://wordpress.org/?v=6.0.3</generator>
+	<item>
+		<title>Popup Home</title>
+		<link>https://mannehihi.github.io/mywordpress/2022/10/20/popup-home/</link>
+		
+		<dc:creator><![CDATA[cuminhman]]></dc:creator>
+		<pubDate>Thu, 20 Oct 2022 09:07:19 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://mannehihi.github.io/mywordpress/?post_type=elementor_library&#038;p=1061</guid>
+
+					<description><![CDATA[Content Area]]></description>
+										<content:encoded><![CDATA[<div class="elementor-theme-builder-content-area">Content Area</div>]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
 </rss>
